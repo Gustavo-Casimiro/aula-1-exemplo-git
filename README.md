@@ -6,12 +6,6 @@ Meu primeiro repositorio
 - 💡 Anotações e dicas
 - 🛠️ Experimentos com código
 
-- ## 🌱 Tecnologias que estou aprendendo:
- 
-- HTML
-- CSS
-- JavaScript
-- Git e GitHub
 
 - ## 🎯 Objetivo
  
@@ -26,3 +20,5 @@ Se quiser trocar uma ideia ou compartilhar dicas, me avise! 😊
 **Obrigado por visitar meu repositório!** ✨
 
 by: Gustavo-Casimiro
+
+
